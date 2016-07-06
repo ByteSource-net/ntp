@@ -11,3 +11,4 @@ gem 'rake'
 gem 'stove'
 gem 'test-kitchen', '~> 1.9'
 gem 'tomlrb'
+gem "ec2"
